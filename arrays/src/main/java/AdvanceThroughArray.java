@@ -8,6 +8,6 @@ public class AdvanceThroughArray {
 
     public static boolean arrayAdvance(List<Integer> A) {
 
-        return false;
+        return true;
     }
 }
